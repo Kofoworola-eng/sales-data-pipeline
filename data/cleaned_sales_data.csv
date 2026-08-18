@@ -1,0 +1,20 @@
+order_id,customer_name,product,quantity,unit_price,order_date,region,payment_method,total_value
+1001,Adaeze Okoro,Wireless Mouse,3,15.99,2026-01-05,Lagos,Card,47.97
+1002,Tunde Bello,USB-C Cable,1,8.5,2026-01-06,Lagos,Cash,8.5
+1003,Chioma Eze,Laptop Stand,1,24.99,2026-01-07,Abuja,Transfer,24.99
+1004,Bukola Ade,Wireless Mouse,2,15.99,2026-01-08,Lagos,Card,31.98
+1005,Unknown Customer,Bluetooth Speaker,1,45.0,2026-01-09,Port Harcourt,Card,45.0
+1006,Emeka Obi,USB-C Cable,5,8.5,2026-01-10,Abuja,Cash,42.5
+1007,Ngozi Umeh,Laptop Stand,1,24.99,2026-01-11,Lagos,Transfer,24.99
+1008,Femi Adewale,Wireless Mouse,1,15.99,2026-01-12,Kano,Card,15.99
+1009,Ifeoma Nwosu,Bluetooth Speaker,2,45.0,2026-01-13,Port Harcourt,Cash,90.0
+1010,Segun Yusuf,USB-C Cable,4,8.5,2026-01-14,Lagos,Transfer,34.0
+1011,Amaka Chukwu,Laptop Stand,1,24.99,2026-01-15,Abuja,Card,24.99
+1012,Yakubu Musa,Wireless Mouse,1,15.99,2026-01-16,Kano,Cash,15.99
+1013,Halima Bello,Bluetooth Speaker,1,45.0,2026-01-17,Lagos,Transfer,45.0
+1014,Kelechi Okafor,USB-C Cable,3,8.5,2026-01-18,Abuja,Card,25.5
+1016,Ibrahim Suleiman,Wireless Mouse,1,15.99,2026-01-20,Lagos,Transfer,15.99
+1017,Chidinma Obi,Bluetooth Speaker,1,45.0,2026-01-21,Abuja,Card,45.0
+1018,Tobi Alabi,USB-C Cable,2,8.5,2026-01-22,Lagos,Cash,17.0
+1019,Fatima Aliyu,Laptop Stand,1,24.99,2026-01-23,Kano,Transfer,24.99
+1020,Uche Nwaubani,Wireless Mouse,3,15.99,2026-01-24,Lagos,Card,47.97
